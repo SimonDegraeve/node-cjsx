@@ -7,10 +7,6 @@ Transparently `require()` cjsx from node
 
 `require('node-cjsx').transform()`
 
-If you want to use a different extension, do:
-
-`require('node-jsx').install({extension: '.jsx'})`
-
 `node-cjsx` is activated for files with either `.cjsx` or `.coffee` extension.
 
 ### Installation
