@@ -15,5 +15,5 @@ npm install node-cjsx
 ```
 
 ### Thanks
-This package is inspired by [node-jsx](https://github.com/petehunt/node-jsx).
+This package is inspired by [node-jsx](https://github.com/petehunt/node-jsx) and use [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) to handle `cjsx` transformation to `CoffeeScript`.
 Thanks to the authors for their great work.
