@@ -1,0 +1,35 @@
+{
+  "name": "node-cjsx",
+  "version": "0.1.0",
+  "description": "Transparently require() cjsx from within node",
+  "main": "index.js",
+  "dependencies": {
+    "coffee-script": "~1.7.0",
+    "coffee-react-transform": "~0.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SimonDegraeve/node-cjsx.git"
+  },
+  "homepage": "https://github.com/SimonDegraeve/node-cjsx",
+  "bugs": "https://github.com/SimonDegraeve/node-cjsx/issues",
+  "keywords": [
+    "react",
+    "coffee-react",
+    "coffee-script",
+    "node",
+    "jsx",
+    "cjsx"
+  ],
+  "contributors": [
+    {
+      "name": "Simon Degraeve",
+      "email": "simon.degraeve@gmail.com",
+      "url": "https://github.com/SimonDegraeve"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
