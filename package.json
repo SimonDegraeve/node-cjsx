@@ -1,7 +1,7 @@
 {
   "name": "node-cjsx",
   "version": "0.1.0",
-  "description": "Transparently require() cjsx from within node",
+  "description": "Transparently require() cjsx from node",
   "main": "index.js",
   "dependencies": {
     "coffee-script": "~1.7.0",
