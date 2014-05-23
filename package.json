@@ -1,11 +1,11 @@
 {
   "name": "node-cjsx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Transparently require() cjsx from node",
   "main": "index.js",
   "dependencies": {
     "coffee-script": "~1.7.1",
-    "coffee-react-transform": "~0.1.5"
+    "coffee-react-transform": "~0.2.0"
   },
   "repository": {
     "type": "git",
