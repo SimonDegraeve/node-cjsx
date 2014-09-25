@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "coffee-script": "~1.7.1",
-    "coffee-react-transform": "~0.5.0"
+    "coffee-react-transform": "~1.0.2"
   },
   "repository": {
     "type": "git",
