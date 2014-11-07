@@ -4,8 +4,8 @@
   "description": "Transparently require() cjsx from node",
   "main": "index.js",
   "dependencies": {
-    "coffee-script": "~1.7.1",
-    "coffee-react-transform": "~1.0.2"
+    "coffee-react-transform": "^2.0.0",
+    "coffee-script": "^1.8.0"
   },
   "repository": {
     "type": "git",
