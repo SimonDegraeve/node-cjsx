@@ -1,6 +1,6 @@
 {
   "name": "node-cjsx",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Transparently require() cjsx from node",
   "main": "index.js",
   "dependencies": {
